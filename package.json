@@ -1,0 +1,24 @@
+{
+  "name": "wires-mysql",
+  "version": "0.0.1",
+  "description": "wires-mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+ 
+  "keywords": [
+    "wires", "mysql", "mysql-sync", "mysql-mongo"
+  ],
+  
+  "author": "ivan.orlov",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "mongo-mysql": "^0.0.1",
+    "lodash": "^2.4.1",
+    "log4js": "^0.6.21",
+    "mysql": "^2.5.4",
+    "wires-class": "0.0.0"
+  }
+}
