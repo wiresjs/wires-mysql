@@ -1,8 +1,6 @@
 wires-mysql
 ============
 
-Restful Model implementation
-
 ## About
 
 An API to mysql database, using mongolike queries
