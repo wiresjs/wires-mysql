@@ -5,7 +5,7 @@ var lib = require('../index');
 var _ = require('lodash');
 var logger = lib.logger;
 var schema = require('../schema')
-var builder = require('conmio-mongo-sql');
+var builder = require('mongo-mysql');
 
 
 // Insertion

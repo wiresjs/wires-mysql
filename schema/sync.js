@@ -4,7 +4,7 @@ var async = require('async');
 var _ = require('lodash');
 var lib = require('../index.js');
 var logger = lib.logger;
-var builder = require('conmio-mongo-sql');
+var builder = require('mongo-mysql');
 var defaultSchemaTypes = require('./types')
 
 
